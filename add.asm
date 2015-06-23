@@ -1,5 +1,5 @@
 section .text
-
+;This is the start label 
 global _start
 
 _start:
